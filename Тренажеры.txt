@@ -1,5 +1,22 @@
 
+Полезные ссылки https://htmlacademy.ru/skills/code-design-furniture/accessory
+
+Курсы для новичков
+
+Базовые механики стилизации
 
 Конспект «Оформление текста» https://htmlacademy.ru/courses/309/run/19
 
-https://htmlacademy.ru/courses/44/run/1
+Конспект «Селекторы. Знакомство» https://htmlacademy.ru/courses/42/run/18
+
+Конспект «Наследование и каскадирование» https://htmlacademy.ru/courses/66/run/18
+
+Конспект «Фоны. Знакомство». Раздел 1 https://htmlacademy.ru/courses/53/run/8
+
+Конспект «Фоны. Знакомство». Раздел 2 https://htmlacademy.ru/courses/53/run/17
+
+Конспект «Сетки». Раздел 1 https://htmlacademy.ru/courses/359/run/11
+
+Конспект «Сетки». Раздел 2 https://htmlacademy.ru/courses/359/run/21
+
+Конспект «Микросетки. Начало». Раздел 1 https://htmlacademy.ru/courses/365/run/7
