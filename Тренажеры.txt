@@ -20,3 +20,11 @@
 Конспект «Сетки». Раздел 2 https://htmlacademy.ru/courses/359/run/21
 
 Конспект «Микросетки. Начало». Раздел 1 https://htmlacademy.ru/courses/365/run/7
+
+Знакомство с JavaScript
+
+Конспект «Условия и создание элементов» https://htmlacademy.ru/courses/347/run/15
+
+Конспект «Коллекции и свойства элементов» https://htmlacademy.ru/courses/349/run/16
+
+https://htmlacademy.ru/courses/351/run/1
