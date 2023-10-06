@@ -27,4 +27,6 @@
 
 Конспект «Коллекции и свойства элементов» https://htmlacademy.ru/courses/349/run/16
 
+Конспект «Основы программирования на JavaScript» https://htmlacademy.ru/courses/207/run/14
+
 https://htmlacademy.ru/courses/351/run/1
